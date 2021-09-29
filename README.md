@@ -4,4 +4,4 @@ Based on [Fireship's](https://github.com/fireship-io/react-firebase-chat), but u
 
 Fireship's [tutorial](https://youtu.be/zQyrwxMPm88) on YouTube.
 
-[Live demo](https://fireship-demos.web.app/)
+[Live demo](https://fir-chat-fe9da.web.app)
