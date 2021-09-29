@@ -27,7 +27,7 @@ yarn-error.log*
 .idea
 .idea/**
 **/node_modules/*
-**/.firebaserc
+#**/.firebaserc
 firebase-debug.log
 
 ### Firebase Patch ###
